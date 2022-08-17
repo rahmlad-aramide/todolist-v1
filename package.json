@@ -1,0 +1,20 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "Todo list v.1 fullstack course Angela Yu ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htpps://rahmlad-aramide.github.com/"
+  },
+  "author": "Rahmlad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
